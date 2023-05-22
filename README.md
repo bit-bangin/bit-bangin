@@ -7,15 +7,24 @@ Hi there!
 
 ## About Me
   - Aspiring cyber security professional
-  - Career changer | healthcare ⏩ tech |
+  - Career changer
+  - Problem solving enthusiast
 
-### Current Interests
-  - Binary analysis, and relevant tools
+### Professional Interests
+  - Binary analysis
   - Electronic component failure analysis
   - Exotic data structures, algorithms, and their varied implementations
+  - Digital forensics
   - Instruction set architectures
+  - Malware analysis
   - Signal processing, associated mathematical ideas
-  - System design
+  - System design concpets
+
+### Personal Interests
+  - Books (I am an avid reader)
+  - Cats :black_cat: (obviously) 
+  - Philosophy
+  - Tearing down old electronics, only to see if I can put them back together again.
 
 
 ## Let's Connect!
