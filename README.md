@@ -6,9 +6,8 @@ Hi there!
   </html>
 
 ## About Me
-  - Aspiring cyber security professional
-  - Career changer
   - Problem solving enthusiast
+  - Career changer
 
 ### Professional Interests
   - Binary analysis
@@ -25,19 +24,3 @@ Hi there!
   - Cats :black_cat: (obviously) 
   - Philosophy
   - Tearing down old electronics, only to see if I can put them back together again.
-
-
-## Let's Connect!
-<html>
-<a href="https://dev.to/bitbanging">
-</a>
-
-<a href="https://stackexchange.com/users/23465724/the-real-bit-bangin">
-  <img align="left" alt="Connect on Stack Exchange" width="22px" src="https://github.com/bit-bangin/.github/blob/fb09c56e1ba7d210b704aef4efd245c646fdc4d2/stackExchangeLogo.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/emilycabaniss/">
-  <img align="left" alt="Emily's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br/>
-</html>
